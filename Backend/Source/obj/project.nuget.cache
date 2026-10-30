@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Spzr6M/ZIds=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\drgva\\OneDrive\\Documentos\\FECAP\\POO\\Aula_09_Exercicios_Projeto_PI\\Backend\\Source\\BackendEstudoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drgva\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.5\\microsoft.net.illink.tasks.10.0.5.nupkg.sha512",
+    "C:\\Users\\drgva\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\drgva\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.5\\microsoft.netcore.app.runtime.win-x64.10.0.5.nupkg.sha512",
+    "C:\\Users\\drgva\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.5.nupkg.sha512",
+    "C:\\Users\\drgva\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.5\\microsoft.aspnetcore.app.runtime.win-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
